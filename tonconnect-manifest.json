@@ -1,5 +1,5 @@
 {
-  "url": "http://localhost:8010",
+  "url":"http://127.0.0.1:8010",
   "name": "Ternary (учебная симуляция)",
   "iconUrl": "https://raw.githubusercontent.com/dev-lab-kz/ton-mf/main/icon.png"
 }
